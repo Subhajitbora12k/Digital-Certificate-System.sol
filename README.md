@@ -84,3 +84,5 @@ We aim to eliminate counterfeit products, reduce fraud, improve food safety, ens
 
 - ## contract address
 - 0xcD63Ddf3912DA6720D5672Fc25759505a00107fA
+- <img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/0a015d51-06a7-427b-950f-e3f809cf5ee0" />
+
